@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/AstroAmoeba/ElectroRadioastronomia_DIY/tree/gh-pages) branch hosts the contents of this directory at <https://AstroAmoeba.github.io/ElectroRadioastronomia_DIY/>.
-The permalink for this webpage version is <https://AstroAmoeba.github.io/ElectroRadioastronomia_DIY/v/9970548507fe9dca8e6f80eb999469d8352fefde/>.
+The permalink for this webpage version is <https://AstroAmoeba.github.io/ElectroRadioastronomia_DIY/v/d9737f50af8a5e8f588929e1a6b0eefa12f9f398/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://AstroAmoeba.github.io/ElectroRadioastronomia_DIY/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`9970548507fe9dca8e6f80eb999469d8352fefde`](https://github.com/AstroAmoeba/ElectroRadioastronomia_DIY/commit/9970548507fe9dca8e6f80eb999469d8352fefde).
+[`d9737f50af8a5e8f588929e1a6b0eefa12f9f398`](https://github.com/AstroAmoeba/ElectroRadioastronomia_DIY/commit/d9737f50af8a5e8f588929e1a6b0eefa12f9f398).
